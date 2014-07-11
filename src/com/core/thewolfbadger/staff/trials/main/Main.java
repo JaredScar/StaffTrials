@@ -84,7 +84,7 @@ public class Main extends JavaPlugin {
             switch (args.length) {
                 case 0:
                     //Help menu
-                    sender.sendMessage(ChatColor.YELLOW+"ServerTrials is a plugin made by TheWolfBadger on dev.bukkit.org (http://dev.bukkit.org/profiles/TheWolfBadger).");
+                    sender.sendMessage(ChatColor.YELLOW+"StaffTrials is a plugin made by TheWolfBadger on dev.bukkit.org (http://dev.bukkit.org/profiles/TheWolfBadger).");
                     sender.sendMessage(ChatColor.YELLOW+"It is a plugin meant to manage staff trials.");
                     sender.sendMessage(ChatColor.GRAY+"TrialTypes: DAY, HOUR, MINUTE");
                     sender.sendMessage(ChatColor.GRAY+"Commands should be the last value when you add a trial and it should not include any /. Commands can include spaces also.");
