@@ -20,7 +20,6 @@ import org.bukkit.scheduler.BukkitRunnable;
 public class Main extends JavaPlugin {
     private FileConfiguration settings;
     public void onEnable() {
-        getConfig().options().copyDefaults(true);
         saveDefaultConfig();
         this.settings = getConfig();
         int task = Bukkit.getScheduler().scheduleSyncRepeatingTask(this, new BukkitRunnable() {
