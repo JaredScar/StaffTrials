@@ -2,6 +2,8 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+[RankTrials Bukkit Plugin Page] (https://dev.bukkit.org/projects/ranktrials)
+
 RankTrials was a plugin that was made for this request. It was originally going to be called StaffTrials, however it now has many uses and can be used to count down kicking a player or banning a player by running the commands.
 
 <h2>Permissions</h2>
