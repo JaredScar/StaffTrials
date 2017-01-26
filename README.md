@@ -15,8 +15,8 @@ sTrial.Admin - Permission to run the command /sTrial
 /sTrial cancel (Player) - Cancels the trial of the specified player. Will force run the command that was defined for that sTrial right away.
 
 <h2>Config</h2>
+```YAML
 Messages:
-
-  &nbsp;&nbsp;&nbsp;&nbsp;TimeExpired: '&4Your trial has ended for your staff rank! :( &aWe will get back to you on how you did soon enough! :)'
-  
+  TimeExpired: '&4Your trial has ended for your staff rank! :( &aWe will get back to you on how you did soon enough! :)'  
 Players: {}
+```
